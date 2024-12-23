@@ -10,7 +10,7 @@ Antes de iniciar, é recomendado que você tenha conhecimento básico sobre:
 ## Index (Lessons)
 Here you will find the base files for the environment:
 - [00 - Base Ambient For Development](https://github.com/guiosouza/laravel-studies/tree/main/00-development-base-code)
-- [01 - Creating Routes]()
+- [01 - Creating Routes](https://github.com/guiosouza/laravel-studies/tree/main/01-creating-routes)
 
 ## Começando
 A maneira mais simples de iniciar é utilizando o [Laravel Herd](https://laravel.com/docs/herd), uma ferramenta que facilita a configuração de ambiente, incluindo:
