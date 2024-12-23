@@ -7,10 +7,16 @@ Antes de iniciar, é recomendado que você tenha conhecimento básico sobre:
 - **Lógica de programação**: saber como funcionam condições, laços e variáveis.
 - **PHP**: compreensão de sintaxe e operações básicas com PHP.
 
+## Index (Lessons)
+Here you will find the base files for the environment:
+- [00 - Base Ambient For Development](https://github.com/guiosouza/laravel-studies/tree/main/00-development-base-code)
+- [01 - Creating Routes]()
+
 ## Começando
 A maneira mais simples de iniciar é utilizando o [Laravel Herd](https://laravel.com/docs/herd), uma ferramenta que facilita a configuração de ambiente, incluindo:
 - **Banco de dados**
 - **Versões do PHP**
+- **Básico de HTM e CSS**
 
 Siga os passos abaixo para configurar e iniciar seu projeto Laravel:
 
@@ -32,7 +38,7 @@ composer install
 
 ### 4. Configurar o .env
 O arquivo `.env` é usado para configurar o ambiente do seu projeto. Certifique-se de configurar:
-- Conexão com o banco de dados (exemplo com MySQL):
+- Conexão com o banco de dados (exemplo para o MySQL):
   ```env
   DB_CONNECTION=mysql
   DB_HOST=127.0.0.1
